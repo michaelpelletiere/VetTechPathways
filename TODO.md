@@ -3,6 +3,7 @@
 
 - [x] Create a Name -> VetTech Pathways
 - [x] Create a Domain -> www.vettechpathways.com
+- [ ] Create a Support Email
 - [ ] Define Roles
 - [ ] Create a Logo
 - [ ] Create a Workflow
