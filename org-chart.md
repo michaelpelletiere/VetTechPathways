@@ -18,3 +18,12 @@
 <b>Data Analyst:</b> <br />
 <b>Community Manager:</b> <br />
 
+### Example
+Here’s a simple example of a flowchart for company positions:
+
+```mermaid
+graph TD;
+    CEO-->CTO;
+    CEO-->CFO;
+    CTO-->DevTeam;
+    CFO-->FinanceTeam;
