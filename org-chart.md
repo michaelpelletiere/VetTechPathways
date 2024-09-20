@@ -7,3 +7,14 @@
 <b>IT Specialist:</b> Offers technical support and ensures the website's infrastructure is secure and reliable. <br />
 <b>Data Analyst:</b> Tracks and analyzes user data to improve the website and resources based on user behavior and feedback. <br />
 <b>Community Manager:</b> Engages with users, manages forums or social media groups, and fosters a supportive community. <br />
+
+<b>Project Manager:</b> <br />
+<b>Web Developer:</b> <br />
+<b>UI/UX Designer:</b> <br />
+<b>Content Creator:</b> <br />
+<b>Marketing Specialist:</b> <br />
+<b>Veteran Liaison:</b> <br />
+<b>IT Specialist:</b> <br />
+<b>Data Analyst:</b> <br />
+<b>Community Manager:</b> <br />
+
